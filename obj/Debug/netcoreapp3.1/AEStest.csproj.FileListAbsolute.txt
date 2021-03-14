@@ -1,0 +1,16 @@
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.Form1.resources
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.AssemblyInfo.cs
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.genruntimeconfig.cache
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\AEStest.Form2.resources
+C:\Users\starr\Desktop\AEStest\AEStest\bin\Debug\netcoreapp3.1\stringEncryptAES.exe
+C:\Users\starr\Desktop\AEStest\AEStest\bin\Debug\netcoreapp3.1\stringEncryptAES.deps.json
+C:\Users\starr\Desktop\AEStest\AEStest\bin\Debug\netcoreapp3.1\stringEncryptAES.runtimeconfig.json
+C:\Users\starr\Desktop\AEStest\AEStest\bin\Debug\netcoreapp3.1\stringEncryptAES.runtimeconfig.dev.json
+C:\Users\starr\Desktop\AEStest\AEStest\bin\Debug\netcoreapp3.1\stringEncryptAES.dll
+C:\Users\starr\Desktop\AEStest\AEStest\bin\Debug\netcoreapp3.1\stringEncryptAES.pdb
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\stringEncryptAES.dll
+C:\Users\starr\Desktop\AEStest\AEStest\obj\Debug\netcoreapp3.1\stringEncryptAES.pdb
